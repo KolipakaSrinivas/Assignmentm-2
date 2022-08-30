@@ -1,0 +1,47 @@
+html,body{
+    font-size: 16px;
+    height: 100px;
+}
+
+
+
+.back-img{
+    background-image:linear-gradient(to bottom,rgba(157,14,14,0),#4f0707),url(./images/shutterstock_348320018.png);
+    width: 85.375;
+    height: 30rem;
+}
+li>a{
+    text-decoration: none;
+}
+ul>li{
+    list-style-type:none; ;
+}
+.logo>li>a{ 
+    font-size: 70px;
+    font-weight: 600;
+    color: #EB2929;
+    background-color: #FFFFFF;
+    border: 1px solid #707070;
+    border-radius: 50%;
+    padding-left:20px;
+    padding-right: 20px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.fakeimg>img{
+    width: 100%;
+    height: 100%;
+}
+
+input{
+    width: 26.875rem;
+    height: 3.75rem;
+    background: #FFFFFF ;
+    outline: none;
+    border: 1px solid white;
+    color: #636F88;
+    text-indent: 0px;
+    position: relative;
+
+}
